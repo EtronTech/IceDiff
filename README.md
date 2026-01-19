@@ -56,7 +56,7 @@ python downscale.py
 ```
 @INPROCEEDINGS{11094615,
   author={Xu, Jingyi and Tu, Siwei and Yang, Weidong and Fei, Ben and Li, Shuhao and Liu, Keyi and Luo, Yeqi and Ma, Lipeng and Bai, Lei},
-  booktitle={2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  booktitle={2025 IEEE/CVF Conf    erence on Computer Vision and Pattern Recognition (CVPR)}, 
   title={IceDiff: High Resolution and High-Quality Arctic Sea Ice Forecasting with Generative Diffusion Prior}, 
   year={2025},
   volume={},
@@ -65,5 +65,3 @@ python downscale.py
   keywords={Computer vision;Sea measurements;Predictive models;Transformers;Pattern recognition;Arctic;Reliability;Forecasting;Sea ice;Pragmatics},
   doi={10.1109/CVPR52734.2025.00988}}
 ```
-  keywords={Computer vision;Sea measurements;Predictive models;Transformers;Pattern recognition;Arctic;Reliability;Forecasting;Sea ice;Pragmatics},
-  doi={10.1109/CVPR52734.2025.00988}}
